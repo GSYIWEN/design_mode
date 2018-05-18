@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\file\visual_studio_project\design_mode_cplusplus\design_mode_cplusplus\main.cpp(211): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  design_mode_cPlusPlus.vcxproj -> D:\file\visual_studio_project\design_mode_cPlusPlus\Debug\design_mode_cPlusPlus.exe
